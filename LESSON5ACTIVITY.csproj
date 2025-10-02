@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{246CCD40-52C5-42B5-A6E3-0A48F30C679C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LESSON5ACTIVITY</RootNamespace>
+    <AssemblyName>LESSON5ACTIVITY</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Activity1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Activity1.Designer.cs">
+      <DependentUpon>Activity1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Activity2POS2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Activity2POS2.Designer.cs">
+      <DependentUpon>Activity2POS2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L3A3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="L3A3.Designer.cs">
+      <DependentUpon>L3A3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lesson2_Example3_PrintFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lesson2_Example3_PrintFrm.Designer.cs">
+      <DependentUpon>Lesson2_Example3_PrintFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRINTLESSON5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRINTLESSON5.Designer.cs">
+      <DependentUpon>PRINTLESSON5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User_AccontFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_AccontFrm.Designer.cs">
+      <DependentUpon>User_AccontFrm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Activity1.resx">
+      <DependentUpon>Activity1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Activity2POS2.resx">
+      <DependentUpon>Activity2POS2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="L3A3.resx">
+      <DependentUpon>L3A3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lesson2_Example3_PrintFrm.resx">
+      <DependentUpon>Lesson2_Example3_PrintFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRINTLESSON5.resx">
+      <DependentUpon>PRINTLESSON5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pepperoni" />
+    <None Include="Resources\profile.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GREEN.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jolly Breakfast.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jolly Bsteak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JollibeeGroup1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jolly2chicken.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bucket1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spagandchcken.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kfxbuxcket.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ckpepsi.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fampan2.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chckenwithflt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4ckeandabucket.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zarksbrgewr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\starbucks brkfast.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kfcsprmeal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wingsss.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hawaiian.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New york Style.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cauliflower crust.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cauliflower crust1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dominos.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\special pizza A.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\special pizza B.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\special pizza C.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\special pizza D.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbq pizza.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 3.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 4.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 5.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 6.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza 9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amanos.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\park-cute-kawaii-lo-fi-background-summer-green-grass-and-trees-good-weather-2d-cartoon-landscape-illustration-lofi-aesthetic-wallpaper-desktop-japanese-anime-scenery-dreamy-vibes-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-photo-531880.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\park-cute-kawaii-lo-fi-background-summer-green-grass-and-trees-good-weather-2d-cartoon-landscape-illustration-lofi-aesthetic-wallpaper-desktop-japanese-anime-scenery-dreamy-vibes-vector1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\breh.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

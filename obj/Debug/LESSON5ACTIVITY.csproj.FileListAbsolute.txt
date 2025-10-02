@@ -1,0 +1,144 @@
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+A:\LESSON5ACTIVITY\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+E:\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+E:\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+C:\Users\C203-37\source\repos\Alex-Ignacio-03\DSAL01E\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+E:\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson1.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson1.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form2.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson2_Example3_PrintFrm.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.L3A3.resources
+C:\Users\SYMON\Documents\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Login.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson1.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form2.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.L3A3.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson2_Example3_PrintFrm.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Login.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.MainForm.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+F:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson1.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form2.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.L3A3.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson2_Example3_PrintFrm.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Login.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.MainForm.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+E:\Felix kopya\almost done\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson1.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form2.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.L3A3.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson2_Example3_PrintFrm.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Login.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.MainForm.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+C:\Users\C203-37\Downloads\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson1.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form2.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.L3A3.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson2_Example3_PrintFrm.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Login.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.MainForm.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+E:\Felix kopya\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.exe
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\bin\Debug\LESSON5ACTIVITY.pdb
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.AssemblyReference.cache
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe.config
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson1.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form2.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Form1.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.L3A3.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Lesson2_Example3_PrintFrm.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Login.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.MainForm.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.PRINTLESSON5.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.Properties.Resources.resources
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.GenerateResource.cache
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.csproj.CoreCompileInputs.cache
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.exe
+E:\Felix's Files\Felix kopya\LESSON5ACTIVITY\obj\Debug\LESSON5ACTIVITY.pdb
